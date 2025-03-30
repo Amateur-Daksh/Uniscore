@@ -7,7 +7,7 @@
 
 - **Data Analysis:** Processes and extracts meaningful insights from student data.  
 - **Visualization:** Generates charts and graphs for a clear understanding of results.  
-- **Comparison Reports:** Compares data between CBSE and ICSE boards to identify trends.  
+- **Comparison Reports:** Compares data between CBSE, ICSE and State boards to identify trends.  
 
 ## Installation 🛠️  
 
@@ -28,7 +28,7 @@ To set up **Uniscore** on your local machine:
 ## Usage 🚀  
 
 1. **Prepare Data:**  
-   Place your datasets (e.g., `CBSE.csv`, `ICSE.csv`) in the project directory.  
+   Place your datasets (e.g., `CBSE.csv`, `ICSE.csv`, `State_q1.csv`) in the project directory.  
 
 2. **Run the Application:**  
    Execute the main script to start the analysis:  
@@ -41,8 +41,9 @@ To set up **Uniscore** on your local machine:
 
 ## Data Sources 📊  
 
-- **CBSE.csv:** Contains student scores from the CBSE board.  
-- **ICSE.csv:** Contains student scores from the ICSE board.  
+- **cbse_q1.csv:** Contains student scores from the CBSE board.  
+- **icse_qv.csv:** Contains student scores from the ICSE board.
+- **state_q1.csv:** Contains student scores from the State board.
 - **names.csv:** Stores the names of students for processing.  
 
 ## Contributing 🤝  
